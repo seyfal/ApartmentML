@@ -52,6 +52,10 @@ A simple linear regression model is implemented as a baseline. The code evaluate
 
 A random forest regression model is also implemented, and its performance is evaluated using MSE and R² score. The code demonstrates that the random forest model outperforms the linear regression model for this dataset.
 
+### 3. Gradient Boosting Regressor
+
+A gradient boosting regressor model is also implemented. The code evaluates the model's performance using mean squared error (MSE) and R² score. From the code output, it can be observed that the gradient boosting regressor performs relatively better than linear regression for the dataset.
+
 ## Getting Started
 
 1. Clone the repository:
